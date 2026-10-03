@@ -1,0 +1,22 @@
+{
+  "python": "3.12.14",
+  "polars": "1.35.2",
+  "rows": 1000000,
+  "generation_ms": 381.503,
+  "estimated_table_mib": 19.073,
+  "runs_ms": [
+    12.667,
+    11.368,
+    8.682,
+    7.629,
+    7.426,
+    8.611,
+    6.756
+  ],
+  "median_ms": 8.611,
+  "result_shape": [
+    7,
+    5
+  ],
+  "total_sales": 50503874
+}
